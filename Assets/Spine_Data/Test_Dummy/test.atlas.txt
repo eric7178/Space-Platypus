@@ -1,0 +1,90 @@
+
+test.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B_arm
+  rotate: false
+  xy: 635, 46
+  size: 91, 153
+  orig: 91, 153
+  offset: 0, 0
+  index: -1
+B_foot
+  rotate: true
+  xy: 950, 379
+  size: 106, 49
+  orig: 106, 49
+  offset: 0, 0
+  index: -1
+B_hand
+  rotate: true
+  xy: 2, 2
+  size: 124, 247
+  orig: 124, 247
+  offset: 0, 0
+  index: -1
+B_shin
+  rotate: false
+  xy: 412, 11
+  size: 106, 188
+  orig: 106, 188
+  offset: 0, 0
+  index: -1
+B_thigh
+  rotate: true
+  xy: 251, 8
+  size: 118, 159
+  orig: 118, 159
+  offset: 0, 0
+  index: -1
+F_arm
+  rotate: false
+  xy: 728, 99
+  size: 104, 145
+  orig: 104, 145
+  offset: 0, 0
+  index: -1
+F_foot
+  rotate: false
+  xy: 829, 255
+  size: 106, 48
+  orig: 106, 48
+  offset: 0, 0
+  index: -1
+F_hand
+  rotate: false
+  xy: 697, 246
+  size: 130, 239
+  orig: 130, 239
+  offset: 0, 0
+  index: -1
+F_shin
+  rotate: false
+  xy: 829, 305
+  size: 119, 180
+  orig: 119, 180
+  offset: 0, 0
+  index: -1
+F_thigh
+  rotate: false
+  xy: 520, 32
+  size: 113, 167
+  orig: 113, 167
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 411, 201
+  size: 284, 284
+  orig: 284, 284
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 128
+  size: 407, 357
+  orig: 407, 357
+  offset: 0, 0
+  index: -1
